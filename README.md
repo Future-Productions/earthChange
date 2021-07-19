@@ -1,2 +1,2 @@
 # earthChange
-A social coin issued as public goals are met.
+Mint a coin to buy the land to change the earth.
